@@ -1,0 +1,10 @@
+/* Esto es una hoja de estilos */
+
+body {
+    background-color: aliceblue;
+    text-align: center;
+}
+
+.tituloVerde {
+    color: green;
+}

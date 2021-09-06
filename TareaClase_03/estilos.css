@@ -1,0 +1,8 @@
+body {
+       background-color:palevioletred;
+       text-align: center;
+}
+
+.tituloRosa {
+    color: rgba(211, 13, 106, 0.781);
+}
